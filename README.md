@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ahkshaey1686
 - 👀 I’m interested in software development
 - 🌱 I’m currently learning nodejs and other javascript frontend frameworks
-- 💞️ I’m looking to collaborate on projects buot on top of RoR and other allied technologies
+- 💞️ I’m looking to collaborate on projects built on top of RoR and other allied technologies
 - 📫 I can be reached out at aravi@osidigital.com / +91-9880546177
 
 <!---
